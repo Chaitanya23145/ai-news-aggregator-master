@@ -1,0 +1,21 @@
+{
+  "preferred_topics": [
+    "LLM Reasoning & Architecture",
+    "Autonomous AI Agents",
+    "Open Source Foundation Models",
+    "Vision & Multimodal Intelligence",
+    "AI Hardware & Inference Acceleration",
+    "Robotics & Embodied AI"
+  ],
+  "excluded_topics": [
+    "Cryptocurrency & Web3",
+    "Celebrity AI Gossip",
+    "Generic Marketing Press Releases"
+  ],
+  "technical_depth_weight": 4.0,
+  "min_relevance_score": 7.5,
+  "slack_webhook_url": "",
+  "discord_webhook_url": "",
+  "enable_slack_alerts": false,
+  "enable_discord_alerts": false
+}

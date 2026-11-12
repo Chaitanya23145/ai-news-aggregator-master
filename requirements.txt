@@ -1,0 +1,14 @@
+groq
+python-dotenv
+sqlalchemy
+requests
+beautifulsoup4
+feedparser
+youtube-transcript-api
+markdown
+pydantic
+fastapi
+uvicorn
+pymongo
+dnspython
+certifi
