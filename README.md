@@ -11,6 +11,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <p align="center">
+  <a href="https://ai-news-aggregator-master-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Production%20App-Vercel%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+<p align="center">
+  🌐 <b>Live Web Application:</b> <a href="https://ai-news-aggregator-master-omega.vercel.app/">https://ai-news-aggregator-master-omega.vercel.app/</a>
+</p>
+
+<p align="center">
   <b>An autonomous research intelligence pipeline that crawls arXiv preprints, AI laboratory disclosures, and technical talks, clusters duplicate coverage, synthesizes 2-minute architectural briefings using Groq LLMs, and delivers briefings directly via high-deliverability email reports and a modern dark-mode landing page.</b>
 </p>
 
